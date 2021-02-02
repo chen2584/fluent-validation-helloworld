@@ -12,7 +12,7 @@ namespace MyConsole
             var customer = new Customer
             {
                 FirstName = "Chen",
-                LastName = "Semapat",
+                LastName = "Angelo",
                 Age = 20,
                 Cats = new List<string>
                 {
